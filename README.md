@@ -36,7 +36,9 @@ The system helps in understanding how temperature, motion, and light sensors wor
 ---
 
 ## Working Video
-The working demonstration of the project is attached in this repository.
+   Video may not preview on GitHub. Please download and view.
+
+Or view project demo inside repository files.
 
 ---
 
